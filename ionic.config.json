@@ -1,5 +1,7 @@
 {
   "name": "retract",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
